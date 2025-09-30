@@ -285,7 +285,7 @@ export const MTI_TYPES = {
 
 **میر میلاد فارسی**
 
-- Github: [Milad-fa](https://github.com/milad-fa/iso8583-simulator)
+- Github: [Milad-fa](https://github.com/milad-fa)
 - LinkedIn: [Mir Milad](https://linkedin.com/in/mir-milad-farsi-6b12a91ab)
 - Telegram: [Milad_developer](https://t.me/milad_developer)
 
@@ -306,7 +306,7 @@ export const MTI_TYPES = {
 
 1. یک [Issue](https://github.com/milad-fa/iso8583-simulator/issues) باز کنید
 2. به [Discussions](https://github.com/milad-fa/iso8583-simulator/discussions) بپیوندید
-3. ایمیل بزنید: your.email@example.com
+
 
 ---
 
